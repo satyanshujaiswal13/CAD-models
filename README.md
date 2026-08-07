@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image/image.png" width="600">
+  <img src="images/image.png" width="600">
 </p>
 # 🤖 Rover CAD Model
 
