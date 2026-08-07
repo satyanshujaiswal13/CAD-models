@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="image/image.png" width="600">
+</p>
 # 🤖 Rover CAD Model
 
 This repository contains the CAD design of a **mobile rover integrated with a robotic arm and claw**, developed for robotics applications that require mobility and object manipulation. The design focuses on creating a modular and functional platform that can be adapted for research, educational projects, rapid prototyping, and robotics competitions.
